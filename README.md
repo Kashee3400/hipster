@@ -9,8 +9,8 @@ A Flutter application to display user profiles with infinite scrolling, detail v
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/user-directory-app.git
-   cd user-directory-app
+   git clone https://github.com/Kashee3400/hipster.git
+   cd hipster
    ```
 
 2. **Install dependencies:**
@@ -68,8 +68,7 @@ When invalid field access occurs, the API may respond like this:
 }
 ```
 
-You can use this error format to identify and surface descriptive backend issues gracefully in the frontend.
-
+There is an error in the name of user. I am getting the data like this:
 ---
 
 
